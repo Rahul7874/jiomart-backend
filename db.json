@@ -942,7 +942,7 @@
                     "strikeprice":325.00,
                     "price": 308.00,
                     "stock":"In stock",
-                    "category":"make-up"
+                    "category":"makeup"
                 },
                 {
                     "id":2,
@@ -978,7 +978,7 @@
                     "strikeprice":195.00,
                     "price": 175.00,
                     "stock":"In stock",
-                    "category":"make-up"
+                    "category":"makeup"
                 },
                 {
                     "id":6,
@@ -1014,7 +1014,7 @@
                     "strikeprice":9800.00,
                     "price": 8820.00,
                     "stock":"In stock",
-                    "category":"make-up"
+                    "category":"makeup"
                 },
                 {
                     "id":10,
@@ -1050,7 +1050,7 @@
                     "strikeprice":320.00,
                     "price":  224.00,
                     "stock":"In stock",
-                    "category":"make-up"
+                    "category":"makeup"
                 },
                 {
                     "id":14,
@@ -1086,7 +1086,7 @@
                     "strikeprice":685.00,
                     "price": 479.00,
                     "stock":"In stock",
-                    "category":"make-up"
+                    "category":"makeup"
                 },
                 {
                     "id":18,
